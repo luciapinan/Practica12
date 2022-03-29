@@ -23,6 +23,8 @@ public class Git_practica11 {
         System.out.println("final");
         
         System.out.println("Editado desde GIT");
+
+        System.out.println("Version 2");
     }
     
 }
